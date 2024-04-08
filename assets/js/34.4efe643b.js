@@ -66,7 +66,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13272397.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13272397.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -87,7 +87,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13857874.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13857874.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -108,7 +108,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13859103.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13859103.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -281,7 +281,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://github.com/DilemmaVi/ecsheet",
+                          href: "",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },

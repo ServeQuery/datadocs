@@ -34,7 +34,7 @@
                     ),
                     s(
                       "RouterLink",
-                      { attrs: { to: "/zh/guide/config.html#updateurl" } },
+                      { attrs: { to: "/guide/config.html#updateurl" } },
                       [t._v("共享编辑")]
                     ),
                     t._v("功能，则会通过websocket将操作实时更新到后台。"),
@@ -385,7 +385,7 @@
                                 "RouterLink",
                                 {
                                   attrs: {
-                                    to: "/zh/guide/cell.html#基本单元格",
+                                    to: "/guide/cell.html#基本单元格",
                                   },
                                 },
                                 [t._v("单元格属性表")]
@@ -1173,7 +1173,7 @@
                                 "RouterLink",
                                 {
                                   attrs: {
-                                    to: "/zh/guide/cell.html#基本单元格",
+                                    to: "/guide/cell.html#基本单元格",
                                   },
                                 },
                                 [t._v("单元格属性表")]

@@ -54,7 +54,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/api.html#getAllSheets([setting])",
+                            to: "/guide/api.html#getAllSheets([setting])",
                           },
                         },
                         [s("code", [t._v("datadocs.getAllSheets()")])]
@@ -2238,11 +2238,9 @@
                     "p",
                     [
                       t._v("more detail "),
-                      s(
-                        "RouterLink",
-                        { attrs: { to: "/zh/guide/cell.html" } },
-                        [t._v("cell format")]
-                      ),
+                      s("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
+                        t._v("cell format"),
+                      ]),
                     ],
                     1
                   ),
@@ -10084,11 +10082,9 @@
                       "p",
                       [
                         t._v("You can get more detail in this API page"),
-                        s(
-                          "RouterLink",
-                          { attrs: { to: "/zh/guide/api.html" } },
-                          [t._v("API setRangeConditionalFormat")]
-                        ),
+                        s("RouterLink", { attrs: { to: "/guide/api.html" } }, [
+                          t._v("API setRangeConditionalFormat"),
+                        ]),
                       ],
                       1
                     ),

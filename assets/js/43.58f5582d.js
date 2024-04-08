@@ -2177,7 +2177,7 @@
                       t._v("merge 详细参考："),
                       v(
                         "RouterLink",
-                        { attrs: { to: "/zh/guide/data.html#config" } },
+                        { attrs: { to: "/guide/data.html#config" } },
                         [t._v("表格数据config")]
                       ),
                     ],
@@ -2578,7 +2578,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/sheet.html#config-borderinfo",
+                            to: "/guide/sheet.html#config-borderinfo",
                           },
                         },
                         [t._v("config.borderInfo")]
@@ -3062,7 +3062,7 @@
                       t._v("了解 "),
                       v(
                         "RouterLink",
-                        { attrs: { to: "/zh/guide/data.html#celldata" } },
+                        { attrs: { to: "/guide/data.html#celldata" } },
                         [t._v("celldata的使用")]
                       ),
                     ],

@@ -38,7 +38,7 @@
                     "a",
                     {
                       attrs: {
-                        href: "https://servequery.github.io/datadocs/edit/master/docs/zh/guide/resource.md",
+                        href: "https://servequery.github.io/datadocs/edit/master/docs/guide/resource.md",
                         target: "_blank",
                         rel: "noopener noreferrer",
                       },
@@ -64,15 +64,12 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13272397.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13272397.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
                       },
-                      [
-                        e._v("Luckysheet如何初始化含合并单元格的数据"),
-                        t("OutboundLink"),
-                      ],
+                      [e._v("DataDocs"), t("OutboundLink")],
                       1
                     ),
                   ]),
@@ -82,7 +79,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13857874.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13857874.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -100,7 +97,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13859103.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13859103.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -266,7 +263,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://github.com/DilemmaVi/ecsheet",
+                          href: "",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },

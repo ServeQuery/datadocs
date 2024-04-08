@@ -3765,7 +3765,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://servequery.github.io/datadocs/zh/",
+                          href: "https://servequery.github.io/datadocs/",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -3782,7 +3782,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://servequery.github.io/datadocs/zh/guide/FAQ.html",
+                          href: "https://servequery.github.io/datadocs/guide/FAQ.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },

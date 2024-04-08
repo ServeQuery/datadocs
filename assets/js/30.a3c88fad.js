@@ -209,7 +209,7 @@
                     t._v(
                       " array to set corresponding more detailed parameters. Refer to "
                     ),
-                    e("RouterLink", { attrs: { to: "/zh/guide/sheet.html" } }, [
+                    e("RouterLink", { attrs: { to: "/guide/sheet.html" } }, [
                       t._v("Worksheet Configuration"),
                     ]),
                   ],
@@ -862,11 +862,9 @@
                       t._v(
                         ". For detailed parameter settings, please refer to "
                       ),
-                      e(
-                        "RouterLink",
-                        { attrs: { to: "/zh/guide/sheet.html" } },
-                        [t._v("worksheet configuration")]
-                      ),
+                      e("RouterLink", { attrs: { to: "/guide/sheet.html" } }, [
+                        t._v("worksheet configuration"),
+                      ]),
                     ],
                     1
                   ),

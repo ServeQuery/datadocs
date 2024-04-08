@@ -208,7 +208,7 @@
                     ),
                     a("code", [t._v("options.data")]),
                     t._v("数组中，分别设置对应更详细的参数，参考"),
-                    a("RouterLink", { attrs: { to: "/zh/guide/sheet.html" } }, [
+                    a("RouterLink", { attrs: { to: "/guide/sheet.html" } }, [
                       t._v("工作表配置"),
                     ]),
                   ],
@@ -2624,7 +2624,7 @@
                         ),
                         a(
                           "RouterLink",
-                          { attrs: { to: "/zh/guide/operate.html" } },
+                          { attrs: { to: "/guide/operate.html" } },
                           [t._v("表格操作")]
                         ),
                       ],
@@ -2685,11 +2685,9 @@
                       t._v("的时候，需要手动配置传入整个客户端所有sheet数据"),
                       a("code", [t._v("[shee1, sheet2, sheet3]")]),
                       t._v("，详细参数设置参见"),
-                      a(
-                        "RouterLink",
-                        { attrs: { to: "/zh/guide/sheet.html" } },
-                        [t._v("工作表配置")]
-                      ),
+                      a("RouterLink", { attrs: { to: "/guide/sheet.html" } }, [
+                        t._v("工作表配置"),
+                      ]),
                     ],
                     1
                   ),

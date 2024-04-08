@@ -376,7 +376,7 @@
                                 "RouterLink",
                                 {
                                   attrs: {
-                                    to: "/zh/guide/cell.html#基本单元格",
+                                    to: "/guide/cell.html#基本单元格",
                                   },
                                 },
                                 [t._v("单元格属性表")]

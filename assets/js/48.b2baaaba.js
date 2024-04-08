@@ -55,7 +55,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/api.html#getAllSheets([setting])",
+                            to: "/guide/api.html#getAllSheets([setting])",
                           },
                         },
                         [s("code", [t._v("datadocs.getAllSheets()")])]
@@ -2245,11 +2245,9 @@
                     "p",
                     [
                       t._v("详细了解 "),
-                      s(
-                        "RouterLink",
-                        { attrs: { to: "/zh/guide/cell.html" } },
-                        [t._v("单元格格式")]
-                      ),
+                      s("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
+                        t._v("单元格格式"),
+                      ]),
                     ],
                     1
                   ),
@@ -10035,11 +10033,9 @@
                       "p",
                       [
                         t._v("API中对此设置也有介绍"),
-                        s(
-                          "RouterLink",
-                          { attrs: { to: "/zh/guide/api.html" } },
-                          [t._v("API setRangeConditionalFormat")]
-                        ),
+                        s("RouterLink", { attrs: { to: "/guide/api.html" } }, [
+                          t._v("API setRangeConditionalFormat"),
+                        ]),
                       ],
                       1
                     ),

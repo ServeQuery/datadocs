@@ -110,12 +110,12 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://github.com/Dushusir",
+                          href: "https://github.com/ServeQuery",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
                       },
-                      [e._v("@Dushusir"), r("OutboundLink")],
+                      [e._v("@ServeQuery"), r("OutboundLink")],
                       1
                     ),
                   ]),

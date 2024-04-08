@@ -240,7 +240,7 @@
                           ),
                           e(
                             "RouterLink",
-                            { attrs: { to: "/zh/guide/cell.html" } },
+                            { attrs: { to: "/guide/cell.html" } },
                             [t._v("cell attribute table")]
                           ),
                         ],
@@ -588,7 +588,7 @@
                             ),
                             e(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("cell attribute table")]
                             ),
                           ],
@@ -605,7 +605,7 @@
                             ),
                             e(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("cell attribute table")]
                             ),
                             t._v(", if the attribute type is "),
@@ -6801,11 +6801,9 @@
                     e(
                       "p",
                       [
-                        e(
-                          "RouterLink",
-                          { attrs: { to: "/zh/guide/cell.html" } },
-                          [t._v("Cell Object Format Reference")]
-                        ),
+                        e("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
+                          t._v("Cell Object Format Reference"),
+                        ]),
                       ],
                       1
                     ),
@@ -14246,7 +14244,7 @@
                             ),
                             e(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("cell attribute table")]
                             ),
                           ],
@@ -14263,7 +14261,7 @@
                             ),
                             e(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("cell attribute table")]
                             ),
                             t._v(", special case: if The attribute type "),
@@ -18423,7 +18421,7 @@
                               ),
                               e(
                                 "RouterLink",
-                                { attrs: { to: "/zh/guide/cell.html" } },
+                                { attrs: { to: "/guide/cell.html" } },
                                 [t._v("Cell Object Format Reference")]
                               ),
                               t._v(
@@ -18942,7 +18940,7 @@
                             "RouterLink",
                             {
                               attrs: {
-                                to: "/zh/guide/api.html#transtodata-celldata-setting",
+                                to: "/guide/api.html#transtodata-celldata-setting",
                               },
                             },
                             [t._v("transToData")]
@@ -20585,7 +20583,7 @@
                         ),
                         e(
                           "RouterLink",
-                          { attrs: { to: "/zh/guide/config.html" } },
+                          { attrs: { to: "/guide/config.html" } },
                           [t._v("Configuration List")]
                         ),
                       ],
@@ -22660,7 +22658,7 @@
                           t._v("{Object} [file]："),
                           e(
                             "RouterLink",
-                            { attrs: { to: "/zh/guide/sheet.html" } },
+                            { attrs: { to: "/guide/sheet.html" } },
                             [t._v("luckysheetfile")]
                           ),
                         ],

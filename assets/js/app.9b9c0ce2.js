@@ -10474,25 +10474,25 @@
         },
         {
           name: "v-a2c9c78e",
-          path: "/zh/",
+          path: "/",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-a2c9c78e").then(n);
           },
         },
-        { path: "/zh/index.html", redirect: "/zh/" },
+        { path: "/index.html", redirect: "/" },
         {
           name: "v-0b57ce39",
-          path: "/zh/about/",
+          path: "/about/",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-0b57ce39").then(n);
           },
         },
-        { path: "/zh/about/index.html", redirect: "/zh/about/" },
+        { path: "/about/index.html", redirect: "/about/" },
         {
           name: "v-18d03aaa",
-          path: "/zh/about/company.html",
+          path: "/about/company.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-18d03aaa").then(n);
@@ -10500,7 +10500,7 @@
         },
         {
           name: "v-7d493ba0",
-          path: "/zh/about/sponsor.html",
+          path: "/about/sponsor.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-7d493ba0").then(n);
@@ -10508,7 +10508,7 @@
         },
         {
           name: "v-86a1904c",
-          path: "/zh/guide/FAQ.html",
+          path: "/guide/FAQ.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-86a1904c").then(n);
@@ -10516,16 +10516,16 @@
         },
         {
           name: "v-7adbae99",
-          path: "/zh/guide/",
+          path: "/guide/",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-7adbae99").then(n);
           },
         },
-        { path: "/zh/guide/index.html", redirect: "/zh/guide/" },
+        { path: "/guide/index.html", redirect: "/guide/" },
         {
           name: "v-6076d692",
-          path: "/zh/guide/api.html",
+          path: "/guide/api.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-6076d692").then(n);
@@ -10533,7 +10533,7 @@
         },
         {
           name: "v-f63f189c",
-          path: "/zh/guide/cell.html",
+          path: "/guide/cell.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-f63f189c").then(n);
@@ -10541,7 +10541,7 @@
         },
         {
           name: "v-cb20cf9c",
-          path: "/zh/guide/config.html",
+          path: "/guide/config.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-cb20cf9c").then(n);
@@ -10549,7 +10549,7 @@
         },
         {
           name: "v-52c084dc",
-          path: "/zh/guide/contribute.html",
+          path: "/guide/contribute.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-52c084dc").then(n);
@@ -10557,7 +10557,7 @@
         },
         {
           name: "v-588f1a3e",
-          path: "/zh/guide/operate.html",
+          path: "/guide/operate.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-588f1a3e").then(n);
@@ -10565,7 +10565,7 @@
         },
         {
           name: "v-10587132",
-          path: "/zh/guide/resource.html",
+          path: "/guide/resource.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-10587132").then(n);
@@ -10573,7 +10573,7 @@
         },
         {
           name: "v-1e5dcff0",
-          path: "/zh/guide/sheet.html",
+          path: "/guide/sheet.html",
           component: za,
           beforeEnter: (e, t, n) => {
             fa("Layout", "v-1e5dcff0").then(n);
@@ -12448,7 +12448,7 @@
               heroText: "DataDocs",
               tagline: "配置文档 · API · 教程",
               actionText: "快速上手 →",
-              actionLink: "/zh/guide/",
+              actionLink: "/guide/",
               features: [
                 {
                   title: "功能强大",
@@ -12467,21 +12467,21 @@
                 { property: "og:type", content: "website" },
                 {
                   property: "og:url",
-                  content: "https://servequery.github.io/datadocs/zh/",
+                  content: "https://servequery.github.io/datadocs/",
                 },
                 { name: "twitter:title", content: "Home" },
                 {
                   name: "twitter:url",
-                  content: "https://servequery.github.io/datadocs/zh/",
+                  content: "https://servequery.github.io/datadocs/",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/",
-            relativePath: "zh/README.md",
+            regularPath: "/",
+            relativePath: "README.md",
             key: "v-a2c9c78e",
-            path: "/zh/",
+            path: "/",
             lastUpdated: "2023/5/17 16:50:54",
             lastUpdatedTimestamp: 1684313454e3,
           },
@@ -12497,21 +12497,21 @@
                 { property: "og:type", content: "website" },
                 {
                   property: "og:url",
-                  content: "https://servequery.github.io/datadocs/zh/about/",
+                  content: "https://servequery.github.io/datadocs/about/",
                 },
                 { name: "twitter:title", content: "认识团队" },
                 {
                   name: "twitter:url",
-                  content: "https://servequery.github.io/datadocs/zh/about/",
+                  content: "https://servequery.github.io/datadocs/about/",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/about/",
-            relativePath: "zh/about/README.md",
+            regularPath: "/about/",
+            relativePath: "about/README.md",
             key: "v-0b57ce39",
-            path: "/zh/about/",
+            path: "/about/",
             headers: [
               { level: 2, title: "核心团队活跃成员", slug: "核心团队活跃成员" },
               { level: 2, title: "社区伙伴", slug: "社区伙伴" },
@@ -12532,22 +12532,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/about/company.html",
+                    "https://servequery.github.io/datadocs/about/company.html",
                 },
                 { name: "twitter:title", content: "社区案例" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/about/company.html",
+                    "https://servequery.github.io/datadocs/about/company.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/about/company.html",
-            relativePath: "zh/about/company.md",
+            regularPath: "/about/company.html",
+            relativePath: "about/company.md",
             key: "v-18d03aaa",
-            path: "/zh/about/company.html",
+            path: "/about/company.html",
             headers: [{ level: 2, title: "公司案例", slug: "公司案例" }],
             lastUpdated: "2023/5/17 16:50:54",
             lastUpdatedTimestamp: 1684313454e3,
@@ -12565,22 +12565,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/about/sponsor.html",
+                    "https://servequery.github.io/datadocs/about/sponsor.html",
                 },
                 { name: "twitter:title", content: "赞助" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/about/sponsor.html",
+                    "https://servequery.github.io/datadocs/about/sponsor.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/about/sponsor.html",
-            relativePath: "zh/about/sponsor.md",
+            regularPath: "/about/sponsor.html",
+            relativePath: "about/sponsor.md",
             key: "v-7d493ba0",
-            path: "/zh/about/sponsor.html",
+            path: "/about/sponsor.html",
             headers: [
               { level: 2, title: "为什么赞助", slug: "为什么赞助" },
               { level: 2, title: "赞助方式", slug: "赞助方式" },
@@ -12607,22 +12607,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/FAQ.html",
+                    "https://servequery.github.io/datadocs/guide/FAQ.html",
                 },
                 { name: "twitter:title", content: "常见问题" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/FAQ.html",
+                    "https://servequery.github.io/datadocs/guide/FAQ.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/FAQ.html",
-            relativePath: "zh/guide/FAQ.md",
+            regularPath: "/guide/FAQ.html",
+            relativePath: "guide/FAQ.md",
             key: "v-86a1904c",
-            path: "/zh/guide/FAQ.html",
+            path: "/guide/FAQ.html",
             headers: [
               {
                 level: 2,
@@ -12827,7 +12827,7 @@
                 { property: "og:type", content: "website" },
                 {
                   property: "og:url",
-                  content: "https://servequery.github.io/datadocs/zh/guide/",
+                  content: "https://servequery.github.io/datadocs/guide/",
                 },
                 {
                   name: "twitter:title",
@@ -12835,16 +12835,16 @@
                 },
                 {
                   name: "twitter:url",
-                  content: "https://servequery.github.io/datadocs/zh/guide/",
+                  content: "https://servequery.github.io/datadocs/guide/",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/",
-            relativePath: "zh/guide/README.md",
+            regularPath: "/guide/",
+            relativePath: "guide/README.md",
             key: "v-7adbae99",
-            path: "/zh/guide/",
+            path: "/guide/",
             headers: [
               { level: 2, title: "基本介绍", slug: "基本介绍" },
               { level: 2, title: "Demo", slug: "demo" },
@@ -12893,22 +12893,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/api.html",
+                    "https://servequery.github.io/datadocs/guide/api.html",
                 },
                 { name: "twitter:title", content: "API" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/api.html",
+                    "https://servequery.github.io/datadocs/guide/api.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/api.html",
-            relativePath: "zh/guide/api.md",
+            regularPath: "/guide/api.html",
+            relativePath: "guide/api.md",
             key: "v-6076d692",
-            path: "/zh/guide/api.html",
+            path: "/guide/api.html",
             headers: [
               { level: 2, title: "单元格操作", slug: "单元格操作" },
               {
@@ -13468,22 +13468,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/cell.html",
+                    "https://servequery.github.io/datadocs/guide/cell.html",
                 },
                 { name: "twitter:title", content: "单元格" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/cell.html",
+                    "https://servequery.github.io/datadocs/guide/cell.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/cell.html",
-            relativePath: "zh/guide/cell.md",
+            regularPath: "/guide/cell.html",
+            relativePath: "guide/cell.md",
             key: "v-f63f189c",
-            path: "/zh/guide/cell.html",
+            path: "/guide/cell.html",
             headers: [
               { level: 2, title: "基本单元格", slug: "基本单元格" },
               {
@@ -13513,22 +13513,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/config.html",
+                    "https://servequery.github.io/datadocs/guide/config.html",
                 },
                 { name: "twitter:title", content: "整体配置" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/config.html",
+                    "https://servequery.github.io/datadocs/guide/config.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/config.html",
-            relativePath: "zh/guide/config.md",
+            regularPath: "/guide/config.html",
+            relativePath: "guide/config.md",
             key: "v-cb20cf9c",
-            path: "/zh/guide/config.html",
+            path: "/guide/config.html",
             headers: [
               { level: 2, title: "基础结构", slug: "基础结构" },
               { level: 2, title: "配置项", slug: "配置项" },
@@ -13880,22 +13880,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/contribute.html",
+                    "https://servequery.github.io/datadocs/guide/contribute.html",
                 },
                 { name: "twitter:title", content: "贡献指南" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/contribute.html",
+                    "https://servequery.github.io/datadocs/guide/contribute.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/contribute.html",
-            relativePath: "zh/guide/contribute.md",
+            regularPath: "/guide/contribute.html",
+            relativePath: "guide/contribute.md",
             key: "v-52c084dc",
-            path: "/zh/guide/contribute.html",
+            path: "/guide/contribute.html",
             headers: [
               { level: 2, title: "我们的行为准则", slug: "我们的行为准则" },
               { level: 2, title: "如何参与贡献？", slug: "如何参与贡献" },
@@ -13926,22 +13926,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/operate.html",
+                    "https://servequery.github.io/datadocs/guide/operate.html",
                 },
                 { name: "twitter:title", content: "表格操作" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/operate.html",
+                    "https://servequery.github.io/datadocs/guide/operate.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/operate.html",
-            relativePath: "zh/guide/operate.md",
+            regularPath: "/guide/operate.html",
+            relativePath: "guide/operate.md",
             key: "v-588f1a3e",
-            path: "/zh/guide/operate.html",
+            path: "/guide/operate.html",
             headers: [
               { level: 2, title: "单元格刷新", slug: "单元格刷新" },
               { level: 3, title: "单个单元格刷新", slug: "单个单元格刷新" },
@@ -13996,22 +13996,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/resource.html",
+                    "https://servequery.github.io/datadocs/guide/resource.html",
                 },
                 { name: "twitter:title", content: "教程与资源" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/resource.html",
+                    "https://servequery.github.io/datadocs/guide/resource.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/resource.html",
-            relativePath: "zh/guide/resource.md",
+            regularPath: "/guide/resource.html",
+            relativePath: "guide/resource.md",
             key: "v-10587132",
-            path: "/zh/guide/resource.html",
+            path: "/guide/resource.html",
             headers: [
               { level: 2, title: "博客", slug: "博客" },
               { level: 2, title: "前端案例", slug: "前端案例" },
@@ -14037,22 +14037,22 @@
                 {
                   property: "og:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/sheet.html",
+                    "https://servequery.github.io/datadocs/guide/sheet.html",
                 },
                 { name: "twitter:title", content: "工作表配置" },
                 {
                   name: "twitter:url",
                   content:
-                    "https://servequery.github.io/datadocs/zh/guide/sheet.html",
+                    "https://servequery.github.io/datadocs/guide/sheet.html",
                 },
                 { name: "twitter:card", content: "summary_large_image" },
                 { name: "twitter:label1", content: "Written by" },
               ],
             },
-            regularPath: "/zh/guide/sheet.html",
-            relativePath: "zh/guide/sheet.md",
+            regularPath: "/guide/sheet.html",
+            relativePath: "guide/sheet.md",
             key: "v-1e5dcff0",
-            path: "/zh/guide/sheet.html",
+            path: "/guide/sheet.html",
             headers: [
               { level: 2, title: "初始化配置", slug: "初始化配置" },
               { level: 3, title: "name", slug: "name" },
@@ -14165,7 +14165,7 @@
                 "/about/": ["", "sponsor", "company"],
               },
             },
-            "/zh/": {
+            "/": {
               selectText: "选择语言",
               label: "简体中文",
               ariaLabel: "选择语言",
@@ -14175,8 +14175,8 @@
                 updatePopup: { message: "发现新内容可用.", buttonText: "刷新" },
               },
               nav: [
-                { text: "首页", link: "/zh/" },
-                { text: "指南", link: "/zh/guide/" },
+                { text: "首页", link: "/" },
+                { text: "指南", link: "/guide/" },
                 {
                   text: "演示",
                   link: "https://servequery.github.io/datadocs/",
@@ -14184,11 +14184,11 @@
                 {
                   text: "了解更多",
                   ariaLabel: "了解更多",
-                  items: [{ text: "关于", link: "/zh/about/" }],
+                  items: [{ text: "关于", link: "/about/" }],
                 },
               ],
               sidebar: {
-                "/zh/guide/": [
+                "/guide/": [
                   "",
                   "config",
                   "sheet",
@@ -14199,7 +14199,7 @@
                   "FAQ",
                   "contribute",
                 ],
-                "/zh/about/": ["", "sponsor", "company"],
+                "/about/": ["", "sponsor", "company"],
               },
             },
           },
@@ -14211,12 +14211,12 @@
             description: "DataDocs is an online spreadsheet database tool.",
             path: "/",
           },
-          "/zh/": {
+          "/": {
             lang: "zh-CN",
             title: "Luckysheet文档",
             description:
               "DataDocs ，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。本站包含官方配置文档,API,教程。",
-            path: "/zh/",
+            path: "/",
           },
         },
       };

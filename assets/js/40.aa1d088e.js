@@ -76,7 +76,7 @@
                     t._v("：表格初始化时使用一维数组格式的 "),
                     e(
                       "RouterLink",
-                      { attrs: { to: "/zh/guide/sheet.html#celldata" } },
+                      { attrs: { to: "/guide/sheet.html#celldata" } },
                       [t._v("celldata")]
                     ),
                     t._v(
@@ -96,7 +96,7 @@
                       "RouterLink",
                       {
                         attrs: {
-                          to: "/zh/guide/api.html#transtocelldata-data-setting",
+                          to: "/guide/api.html#transtocelldata-data-setting",
                         },
                       },
                       [t._v("transToCellData(data)")]
@@ -108,7 +108,7 @@
                       "RouterLink",
                       {
                         attrs: {
-                          to: "/zh/guide/api.html#transtodata-celldata-setting",
+                          to: "/guide/api.html#transtodata-celldata-setting",
                         },
                       },
                       [t._v("transToData(celldata)")]
@@ -208,7 +208,7 @@
                       ]),
                     ]),
                     t._v("：参考"),
-                    e("RouterLink", { attrs: { to: "/zh/guide/cell.html" } }, [
+                    e("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
                       t._v("单元格格式列表"),
                     ]),
                     t._v(",例举了可用的单元格格式"),
@@ -308,7 +308,7 @@
                     t._v("：参考 "),
                     e(
                       "RouterLink",
-                      { attrs: { to: "/zh/guide/sheet.html#calcchain" } },
+                      { attrs: { to: "/guide/sheet.html#calcchain" } },
                       [t._v("表格数据格式")]
                     ),
                     t._v(" ,设置单元格数据对应的calcChain即可。"),
@@ -345,7 +345,7 @@
                     t._v("："),
                     e(
                       "RouterLink",
-                      { attrs: { to: "/zh/guide/config.html#loadurl" } },
+                      { attrs: { to: "/guide/config.html#loadurl" } },
                       [t._v("loadUrl")]
                     ),
                     t._v(
@@ -495,7 +495,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/recode-hyh/p/13168226.html",
+                          href: "https://docs.servequery.com/recode-hyh/p/13168226.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -556,15 +556,12 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13272397.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13272397.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
                       },
-                      [
-                        t._v("Luckysheet如何初始化含合并单元格的数据"),
-                        e("OutboundLink"),
-                      ],
+                      [t._v("DataDocs"), e("OutboundLink")],
                       1
                     ),
                   ]),
@@ -620,7 +617,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.cnblogs.com/DuShuSir/p/13857874.html",
+                          href: "https://docs.servequery.com/ServeQuery/p/13857874.html",
                           target: "_blank",
                           rel: "noopener noreferrer",
                         },
@@ -674,7 +671,7 @@
                     e(
                       "RouterLink",
                       {
-                        attrs: { to: "/zh/guide/config.html#cellrenderafter" },
+                        attrs: { to: "/guide/config.html#cellrenderafter" },
                       },
                       [t._v("单元格钩子函数")]
                     ),
@@ -710,7 +707,7 @@
                       "RouterLink",
                       {
                         attrs: {
-                          to: "/zh/guide/config.html#showtoolbarconfig",
+                          to: "/guide/config.html#showtoolbarconfig",
                         },
                       },
                       [t._v("options.showtoolbarconfig")]
@@ -795,7 +792,7 @@
                       ]),
                     ]),
                     t._v("：首先参考"),
-                    e("RouterLink", { attrs: { to: "/zh/guide/cell.html" } }, [
+                    e("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
                       t._v("单元格对象格式"),
                     ]),
                     t._v("，然后参照源码批注的部分"),
@@ -845,7 +842,7 @@
                   "p",
                   [
                     t._v("详细的Luckysheet使用教程参考已经更新的"),
-                    e("RouterLink", { attrs: { to: "/zh/guide/#使用步骤" } }, [
+                    e("RouterLink", { attrs: { to: "/guide/#使用步骤" } }, [
                       t._v("官方文档"),
                     ]),
                   ],
@@ -945,7 +942,7 @@
                     e(
                       "RouterLink",
                       {
-                        attrs: { to: "/zh/guide/sheet.html#config-authority" },
+                        attrs: { to: "/guide/sheet.html#config-authority" },
                       },
                       [t._v("工作表保护")]
                     ),
@@ -1004,7 +1001,7 @@
                     e(
                       "RouterLink",
                       {
-                        attrs: { to: "/zh/guide/sheet.html#dataVerification" },
+                        attrs: { to: "/guide/sheet.html#dataVerification" },
                       },
                       [t._v("数据验证配置")]
                     ),
@@ -1013,7 +1010,7 @@
                       "RouterLink",
                       {
                         attrs: {
-                          to: "/zh/guide/api.html#setdataverification-optionitem-setting",
+                          to: "/guide/api.html#setdataverification-optionitem-setting",
                         },
                       },
                       [t._v("setDataVerification")]
@@ -1048,7 +1045,7 @@
                     "a",
                     {
                       attrs: {
-                        href: "https://www.cnblogs.com/DuShuSir/p/13859103.html",
+                        href: "https://docs.servequery.com/ServeQuery/p/13859103.html",
                         target: "_blank",
                         rel: "noopener noreferrer",
                       },
@@ -1172,7 +1169,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/api.html#getdefaultrowheight-setting",
+                            to: "/guide/api.html#getdefaultrowheight-setting",
                           },
                         },
                         [t._v("getDefaultRowHeight")]
@@ -1182,7 +1179,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/api.html#getdefaultcolwidth-setting",
+                            to: "/guide/api.html#getdefaultcolwidth-setting",
                           },
                         },
                         [t._v("getDefaultColWidth")]
@@ -1232,7 +1229,7 @@
                       t._v("允许添加行 "),
                       e(
                         "RouterLink",
-                        { attrs: { to: "/zh/guide/config.html#enableaddrow" } },
+                        { attrs: { to: "/guide/config.html#enableaddrow" } },
                         [t._v("enableAddRow")]
                       ),
                     ],
@@ -1247,7 +1244,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/config.html#enableAddBackTop",
+                            to: "/guide/config.html#enableAddBackTop",
                           },
                         },
                         [t._v("enableAddBackTop")]
@@ -1288,7 +1285,7 @@
                       e(
                         "RouterLink",
                         {
-                          attrs: { to: "/zh/guide/config.html#rowheaderwidth" },
+                          attrs: { to: "/guide/config.html#rowheaderwidth" },
                         },
                         [t._v("rowHeaderWidth")]
                       ),
@@ -1304,7 +1301,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/config.html#columnHeaderHeight",
+                            to: "/guide/config.html#columnHeaderHeight",
                           },
                         },
                         [t._v("columnHeaderHeight")]
@@ -1350,7 +1347,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/api.html#setrangemerge-type-setting",
+                            to: "/guide/api.html#setrangemerge-type-setting",
                           },
                         },
                         [t._v("setRangeMerge")]
@@ -1641,7 +1638,7 @@
                       t._v("插件配置 "),
                       e(
                         "RouterLink",
-                        { attrs: { to: "/zh/guide/config.html#配置项" } },
+                        { attrs: { to: "/guide/config.html#配置项" } },
                         [t._v("plugins")]
                       ),
                     ],
@@ -1780,7 +1777,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/config.html#workbookcreatebefore",
+                            to: "/guide/config.html#workbookcreatebefore",
                           },
                         },
                         [t._v("workbookCreateBefore")]
@@ -1797,7 +1794,7 @@
                         "RouterLink",
                         {
                           attrs: {
-                            to: "/zh/guide/config.html#workbookcreateafter",
+                            to: "/guide/config.html#workbookcreateafter",
                           },
                         },
                         [t._v("workbookCreateAfter")]
@@ -1842,7 +1839,7 @@
                       "RouterLink",
                       {
                         attrs: {
-                          to: "/zh/guide/api.html#setrangeshow-range-setting",
+                          to: "/guide/api.html#setrangeshow-range-setting",
                         },
                       },
                       [t._v("setRangeShow")]

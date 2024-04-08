@@ -229,7 +229,7 @@
                           ),
                           s(
                             "RouterLink",
-                            { attrs: { to: "/zh/guide/cell.html" } },
+                            { attrs: { to: "/guide/cell.html" } },
                             [t._v("单元格属性表")]
                           ),
                         ],
@@ -571,7 +571,7 @@
                             t._v("{String} [attr]: 属性类型，参考 "),
                             s(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("单元格属性表")]
                             ),
                             t._v("的属性值"),
@@ -589,7 +589,7 @@
                             ),
                             s(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("单元格属性表")]
                             ),
                             t._v("的值示例，如果属性类型"),
@@ -6577,11 +6577,9 @@
                     s(
                       "p",
                       [
-                        s(
-                          "RouterLink",
-                          { attrs: { to: "/zh/guide/cell.html" } },
-                          [t._v("单元格对象格式参考")]
-                        ),
+                        s("RouterLink", { attrs: { to: "/guide/cell.html" } }, [
+                          t._v("单元格对象格式参考"),
+                        ]),
                       ],
                       1
                     ),
@@ -12908,7 +12906,7 @@
                           ),
                           s(
                             "RouterLink",
-                            { attrs: { to: "/zh/guide/cell.html" } },
+                            { attrs: { to: "/guide/cell.html" } },
                             [t._v("单元格属性表")]
                           ),
                         ],
@@ -13925,7 +13923,7 @@
                             t._v("{String} [attr]: 属性类型，\n参考 "),
                             s(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("单元格属性表")]
                             ),
                             t._v("的属性值"),
@@ -13943,7 +13941,7 @@
                             ),
                             s(
                               "RouterLink",
-                              { attrs: { to: "/zh/guide/cell.html" } },
+                              { attrs: { to: "/guide/cell.html" } },
                               [t._v("单元格属性表")]
                             ),
                             t._v("的值示例，特殊情况：如果属性类型"),
@@ -17917,7 +17915,7 @@
                                 ),
                                 s(
                                   "RouterLink",
-                                  { attrs: { to: "/zh/guide/cell.html" } },
+                                  { attrs: { to: "/guide/cell.html" } },
                                   [t._v("单元格对象格式参考")]
                                 ),
                                 t._v("；默认值为空数组，即插入空白的区域"),
@@ -18384,7 +18382,7 @@
                             "RouterLink",
                             {
                               attrs: {
-                                to: "/zh/guide/api.html#transtodata-celldata-setting",
+                                to: "/guide/api.html#transtodata-celldata-setting",
                               },
                             },
                             [t._v("transToData")]
@@ -18678,7 +18676,7 @@
                                 "RouterLink",
                                 {
                                   attrs: {
-                                    to: "/zh/guide/sheet.html#初始化配置",
+                                    to: "/guide/sheet.html#初始化配置",
                                   },
                                 },
                                 [t._v("options.data")]
@@ -19915,7 +19913,7 @@
                         t._v("初始化一个Luckysheet，可包含多个工作表，参考 "),
                         s(
                           "RouterLink",
-                          { attrs: { to: "/zh/guide/config.html" } },
+                          { attrs: { to: "/guide/config.html" } },
                           [t._v("配置列表")]
                         ),
                       ],
@@ -20810,7 +20808,7 @@
                               "RouterLink",
                               {
                                 attrs: {
-                                  to: "/zh/guide/sheet.html#dataVerification",
+                                  to: "/guide/sheet.html#dataVerification",
                                 },
                               },
                               [t._v("dataVerification")]
@@ -21847,7 +21845,7 @@
                             "RouterLink",
                             {
                               attrs: {
-                                to: "/zh/guide/api.html#scroll-setting",
+                                to: "/guide/api.html#scroll-setting",
                               },
                             },
                             [t._v("scroll")]
@@ -22366,7 +22364,7 @@
                           t._v("{Object} [file]："),
                           s(
                             "RouterLink",
-                            { attrs: { to: "/zh/guide/sheet.html" } },
+                            { attrs: { to: "/guide/sheet.html" } },
                             [t._v("luckysheetfile")]
                           ),
                         ],
