@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://servequery.github.io/datadocs/</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/about/</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/about/"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/about/sponsor.html</loc>
+        <lastmod>2024-02-20T03:05:43.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/about/sponsor.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/about/company.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/about/company.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/FAQ.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/FAQ.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/</loc>
+        <lastmod>2024-03-28T09:45:19.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/api.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/api.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/contribute.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/contribute.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/config.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/config.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/cell.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/cell.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/data.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/resource.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/resource.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/sheet.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/sheet.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/guide/operate.html</loc>
+        <lastmod>2024-04-17T08:50:54.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://servequery.github.io/datadocs/guide/operate.html"/>
+    </url>
+    <url>
+        <loc>https://servequery.github.io/datadocs/404.html</loc>
+        <changefreq>daily</changefreq>
+    </url>
+</urlset>
